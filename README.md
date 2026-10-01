@@ -5,8 +5,8 @@
 ## School of Engineering and Technology
 
 <br>
+<img width="154" height="157" alt="logo" src="https://github.com/user-attachments/assets/d1434cb0-111a-4b53-9c25-2b025b8f17a1" />
 
-<img width="154" height="157" alt="Mody_University_logo" src="images/logo.png" />
 
 <br>
 
@@ -177,7 +177,7 @@ To write a Python program using Matplotlib to plot and display single-line and m
 
 ## Flowchart
 
-<p align="center"><img src="images/program01_flowchart.png" alt="Program 1 flowchart" width="560"></p>
+<img width="1157" height="2344" alt="program01_flowchart" src="https://github.com/user-attachments/assets/60c19dc2-ef98-40fb-bdce-a734f3bd35bc" />
 
 ## Program
 
@@ -212,9 +212,8 @@ plt.show()
 
 ## Sample Output
 
-<p align="center"><img src="images/program01_output1.png" alt="Program 1 output graph 1" width="480"></p>
-
-<p align="center"><img src="images/program01_output2.png" alt="Program 1 output graph 2" width="480"></p>
+<img width="584" height="430" alt="program01_output1" src="https://github.com/user-attachments/assets/038a1cbd-c32d-4f04-adba-0dd705f76b92" />
+<img width="584" height="430" alt="program01_output2" src="https://github.com/user-attachments/assets/e1c0903d-e492-42cc-ae8d-2c6aa4d5ab58" />
 
 [Back to Index](#index)
 
@@ -232,11 +231,11 @@ To write a Python program to calculate and display the execution time of a progr
 
 *Main*
 
-<p align="center"><img src="images/program02_flowchart_main.png" alt="Program 2 flowchart" width="545"></p>
+<img width="1091" height="1933" alt="program02_flowchart_main" src="https://github.com/user-attachments/assets/e9a16df5-1aa5-4720-8c51-ac75c6daf001" />
 
 *Function sum_of_squares*
+<img width="712" height="1237" alt="program02_flowchart_function1" src="https://github.com/user-attachments/assets/451467ee-4533-49d6-a89e-40ae429e11a2" />
 
-<p align="center"><img src="images/program02_flowchart_function1.png" alt="Program 2 flowchart" width="356"></p>
 
 ## Program
 
@@ -288,8 +287,9 @@ Average time per run      : 0.004948 seconds
 To write a Python program to measure and display the memory occupied during program execution using the sys and tracemalloc modules.
 
 ## Flowchart
+<img width="882" height="2077" alt="program03_flowchart" src="https://github.com/user-attachments/assets/5eb4ebd5-ed21-48dc-9956-f179c2153db7" />
 
-<p align="center"><img src="images/program03_flowchart.png" alt="Program 3 flowchart" width="441"></p>
+
 
 ## Program
 
@@ -338,8 +338,8 @@ Peak memory usage     : 3904.43 KB
 To write a Python program using Matplotlib to plot and compare different time complexities such as O(1), O(log n), O(n), O(n log n), O(n²), O(n³), O(2ⁿ), and O(n!).
 
 ## Flowchart
+<img width="1521" height="2061" alt="program04_flowchart" src="https://github.com/user-attachments/assets/5bd1a519-a5f8-4c79-8d5b-879dd786bf2a" />
 
-<p align="center"><img src="images/program04_flowchart.png" alt="Program 4 flowchart" width="560"></p>
 
 ## Program
 
@@ -379,8 +379,7 @@ plt.show()
 ```
 
 ## Sample Output
-
-<p align="center"><img src="images/program04_output1.png" alt="Program 4 output graph 1" width="480"></p>
+<img width="850" height="600" alt="program04_output1" src="https://github.com/user-attachments/assets/a3861429-bd78-4a3c-ada6-8509329e3a94" />
 
 [Back to Index](#index)
 
@@ -395,8 +394,8 @@ plt.show()
 To write a Python program to search for a given element in an array using Linear Search.
 
 ## Flowchart
+<img width="1662" height="2688" alt="program05_flowchart" src="https://github.com/user-attachments/assets/db94661b-6f8c-42df-9b8b-f50cdae0b78b" />
 
-<p align="center"><img src="images/program05_flowchart.png" alt="Program 5 flowchart" width="560"></p>
 
 ## Program
 
@@ -434,7 +433,7 @@ To write a Python program to find the largest element in an array.
 
 ## Flowchart
 
-<p align="center"><img src="images/program06_flowchart.png" alt="Program 6 flowchart" width="560"></p>
+<img width="1134" height="2158" alt="program06_flowchart" src="https://github.com/user-attachments/assets/3eb343b4-2251-471f-a407-e50bea04186e" />
 
 ## Program
 
@@ -472,7 +471,7 @@ To write a Python program to find the smallest element in an array.
 
 ## Flowchart
 
-<p align="center"><img src="images/program07_flowchart.png" alt="Program 7 flowchart" width="560"></p>
+<img width="1192" height="2158" alt="program07_flowchart" src="https://github.com/user-attachments/assets/bf995db2-c94f-4ee2-a75f-d7dbad10a93a" />
 
 ## Program
 
@@ -510,7 +509,7 @@ To write a Python program to sort an array in ascending order using Bubble Sort.
 
 ## Flowchart
 
-<p align="center"><img src="images/program08_flowchart.jpeg" alt="Program 8 flowchart" width="329"></p>
+<img width="658" height="1270" alt="program08_flowchart" src="https://github.com/user-attachments/assets/04d68675-c854-4c12-965e-24531244a63b" />
 
 ## Program
 
@@ -549,7 +548,7 @@ To write a Python program to sort an array in descending order using Bubble Sort
 
 ## Flowchart
 
-<p align="center"><img src="images/program09_flowchart.png" alt="Program 9 flowchart" width="560"></p>
+<img width="1506" height="2991" alt="program09_flowchart" src="https://github.com/user-attachments/assets/7ec17fdf-9069-4def-a852-33d494c5a2db" />
 
 ## Program
 
@@ -588,7 +587,7 @@ To write a Python program to insert a new element at the end of an array.
 
 ## Flowchart
 
-<p align="center"><img src="images/program10_flowchart.jpeg" alt="Program 10 flowchart" width="300"></p>
+<img width="361" height="919" alt="program10_flowchart" src="https://github.com/user-attachments/assets/a0fb20cc-5cb5-4572-a208-c7f730382f02" />
 
 ## Program
 
@@ -625,7 +624,7 @@ To write a Python program to insert a new element at a specified position in an 
 
 ## Flowchart
 
-<p align="center"><img src="images/program11_flowchart.jpeg" alt="Program 11 flowchart" width="300"></p>
+<img width="361" height="1270" alt="program11_flowchart" src="https://github.com/user-attachments/assets/25a7333b-5a76-4771-8ba9-7a5533c2096f" />
 
 ## Program
 
@@ -666,7 +665,7 @@ To write a Python program to delete an element from a specified position in an a
 
 ## Flowchart
 
-<p align="center"><img src="images/program12_flowchart.png" alt="Program 12 flowchart" width="560"></p>
+<img width="1477" height="2719" alt="program12_flowchart" src="https://github.com/user-attachments/assets/ed69d18a-2d42-4806-b398-335ac7f2e11a" />
 
 ## Program
 
@@ -707,7 +706,7 @@ To write a Python program to delete a given value from an array by first searchi
 
 ## Flowchart
 
-<p align="center"><img src="images/program13_flowchart.png" alt="Program 13 flowchart" width="560"></p>
+<img width="1700" height="3666" alt="program13_flowchart" src="https://github.com/user-attachments/assets/2dee308b-5340-434c-b2f3-786818feb4c8" />
 
 ## Program
 
@@ -752,11 +751,12 @@ To write a Python program to find the factorial of a given number using recursio
 
 *Main*
 
-<p align="center"><img src="images/program14_flowchart_main.jpeg" alt="Program 14 flowchart" width="300"></p>
+<img width="307" height="352" alt="program14_flowchart_main" src="https://github.com/user-attachments/assets/61e8b368-99cb-4bd0-b347-af1a3cee301b" />
 
 *Function factorial*
 
-<p align="center"><img src="images/program14_flowchart_function1.jpeg" alt="Program 14 flowchart" width="300"></p>
+<img width="442" height="424" alt="program14_flowchart_function1" src="https://github.com/user-attachments/assets/6b3e0638-5ef6-4d5b-9368-39280f812e7e" />
+
 
 ## Program
 
@@ -798,11 +798,12 @@ To write a Python program to find the sum of natural numbers up to a given numbe
 
 *Main*
 
-<p align="center"><img src="images/program15_flowchart_main.jpeg" alt="Program 15 flowchart" width="300"></p>
+<img width="271" height="334" alt="program15_flowchart_main" src="https://github.com/user-attachments/assets/0ccfecf1-9ea4-4049-820f-af4103ba4ac9" />
 
 *Function sum*
 
-<p align="center"><img src="images/program15_flowchart_function1.jpeg" alt="Program 15 flowchart" width="300"></p>
+<img width="397" height="406" alt="program15_flowchart_function1" src="https://github.com/user-attachments/assets/a8ea299b-25be-49da-be15-1cfaee5623a1" />
+
 
 ## Program
 
@@ -842,7 +843,7 @@ To write a Python program to generate the Fibonacci series using recursion.
 
 ## Flowchart
 
-<p align="center"><img src="images/program16_flowchart.jpeg" alt="Program 16 flowchart" width="461"></p>
+<img width="922" height="541" alt="program16_flowchart" src="https://github.com/user-attachments/assets/67970165-8934-4668-abfe-8fcf4f2cec18" />
 
 ## Program
 
@@ -887,19 +888,21 @@ To write a Python program to represent a graph using Node and Graph classes and 
 
 *Main*
 
-<p align="center"><img src="images/program17_flowchart_main.png" alt="Program 17 flowchart" width="447"></p>
+<img width="894" height="1761" alt="program17_flowchart_main" src="https://github.com/user-attachments/assets/6ff51f70-1b08-47d9-9f18-76977712d0d6" />
 
 *Function add_vertex*
+<img width="852" height="762" alt="program17_flowchart_function1" src="https://github.com/user-attachments/assets/a39d871d-ea56-44bd-9691-8a811eb7ef8b" />
 
-<p align="center"><img src="images/program17_flowchart_function1.png" alt="Program 17 flowchart" width="426"></p>
 
 *Function add_edge (undirected)*
 
-<p align="center"><img src="images/program17_flowchart_function2.png" alt="Program 17 flowchart" width="326"></p>
+<img width="653" height="954" alt="program17_flowchart_function2" src="https://github.com/user-attachments/assets/e772534e-a32d-4613-b2f5-df8c7201dbc3" />
+
 
 *Function display*
 
-<p align="center"><img src="images/program17_flowchart_function3.png" alt="Program 17 flowchart" width="542"></p>
+<img width="1085" height="1082" alt="program17_flowchart_function3" src="https://github.com/user-attachments/assets/d79b5f52-107f-4dba-9359-0f3f6fdca0a7" />
+
 
 ## Program
 
@@ -971,19 +974,21 @@ To write a Python program using classes and objects to represent the given direc
 
 *Main*
 
-<p align="center"><img src="images/program18_flowchart_main.png" alt="Program 18 flowchart" width="496"></p>
+<img width="993" height="1761" alt="program18_flowchart_main" src="https://github.com/user-attachments/assets/e6a0e0b9-c49f-41a3-a36b-8e7b4e3797ce" />
 
 *Function add_vertex*
 
-<p align="center"><img src="images/program18_flowchart_function1.png" alt="Program 18 flowchart" width="426"></p>
+<img width="852" height="762" alt="program18_flowchart_function1" src="https://github.com/user-attachments/assets/7892c38d-89a4-4ed4-8e98-dadf29478243" />
+
 
 *Function add_edge (directed)*
 
-<p align="center"><img src="images/program18_flowchart_function2.png" alt="Program 18 flowchart" width="396"></p>
+<img width="793" height="521" alt="program18_flowchart_function2" src="https://github.com/user-attachments/assets/254d10c3-4379-4792-82c8-f3b414cf0dd8" />
 
 *Function display*
 
-<p align="center"><img src="images/program18_flowchart_function3.png" alt="Program 18 flowchart" width="534"></p>
+<img width="1068" height="1082" alt="program18_flowchart_function3" src="https://github.com/user-attachments/assets/f5182482-f8b8-4f8d-b182-61b81e2fe998" />
+
 
 ## Program
 
@@ -1054,15 +1059,16 @@ To write a Python program using classes and objects to represent the given direc
 
 *Main*
 
-<p align="center"><img src="images/program19_flowchart_main.png" alt="Program 19 flowchart" width="434"></p>
+<img width="869" height="1761" alt="program19_flowchart_main" src="https://github.com/user-attachments/assets/5d608a09-36dd-48a0-a888-84b3b3432bdf" />
 
 *Function Node.add_edge*
 
-<p align="center"><img src="images/program19_flowchart_function1.png" alt="Program 19 flowchart" width="300"></p>
+<img width="581" height="521" alt="program19_flowchart_function1" src="https://github.com/user-attachments/assets/594dac64-8337-4d2e-984e-5212e54395e5" />
+
 
 *Function display*
 
-<p align="center"><img src="images/program19_flowchart_function2.png" alt="Program 19 flowchart" width="542"></p>
+<img width="1084" height="1082" alt="program19_flowchart_function2" src="https://github.com/user-attachments/assets/6de82f91-11d0-4422-bf5d-1d9622e7fe6d" />
 
 ## Program
 
@@ -1138,19 +1144,19 @@ To write a Python program to create a graph by taking the number of vertices and
 
 *Main*
 
-<p align="center"><img src="images/program20_flowchart_main.png" alt="Program 20 flowchart" width="560"></p>
+<img width="1576" height="2441" alt="program20_flowchart_main" src="https://github.com/user-attachments/assets/4b7125d9-80f9-43d8-adc7-137a6bae7c33" />
+
 
 *Function add_vertex*
 
-<p align="center"><img src="images/program20_flowchart_function1.png" alt="Program 20 flowchart" width="426"></p>
+<img width="852" height="762" alt="program20_flowchart_function1" src="https://github.com/user-attachments/assets/12b7e7c8-4ff7-4f45-9f38-2d843634fbc4" />
 
 *Function add_edge (undirected)*
 
-<p align="center"><img src="images/program20_flowchart_function2.png" alt="Program 20 flowchart" width="352"></p>
-
+<img width="704" height="665" alt="program20_flowchart_function2" src="https://github.com/user-attachments/assets/f8154d95-37d6-4bfb-bf73-f0fecbca7828" />
 *Function display*
 
-<p align="center"><img src="images/program20_flowchart_function3.png" alt="Program 20 flowchart" width="542"></p>
+<img width="1085" height="1082" alt="program20_flowchart_function3" src="https://github.com/user-attachments/assets/38a3798c-efd9-42e4-86da-9310cfa41ff4" />
 
 ## Program
 
